@@ -1,0 +1,42 @@
+body{
+    background-image: url(back2.jpg);
+}
+h1{
+    color: rgb(122, 12, 27);
+}
+.top{
+    margin-left: 640px;
+    margin-bottom: 100px;
+    margin-top: -440px;
+    font-weight: bold;
+    position: absolute;
+}
+.fa-star{
+    margin-top: -200px;
+    color: red;
+}
+.danh{
+    margin-left: 22px;
+    margin-top: -18px ;
+}
+.category{
+    margin-left: 200px;
+    margin-top: -70px;
+}
+.nation{
+    margin-left: 600px;
+    margin-top: -69px;
+}
+
+.fa-circle-play {
+    margin-top: -20px;
+}
+.review{
+    margin-left: 22px;
+    margin-top: -22px;
+}
+.fa-sun{
+    margin-top: -200px;
+    margin-bottom: -100px;
+    color: cornflowerblue;
+}

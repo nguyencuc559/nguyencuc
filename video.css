@@ -1,0 +1,9 @@
+video {
+    width: 1200px;
+    height: auto;
+    margin-left: 150px;
+    }
+body{
+    background-image: url(conan.jpg);
+    background-size: auto;
+}
